@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod -R g+rwx /tmp/11-directories_permissions
